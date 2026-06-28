@@ -35,6 +35,32 @@ lib/
   utils/
 ```
 
+## Screenshots
+
+| Splash | Login |
+|---|---|
+| ![Splash](assets/screenshots/1_SplashScree.png) | ![Login](assets/screenshots/2_LoginScreen.png) |
+
+| Dashboard | Side Drawer |
+|---|---|
+| ![Dashboard](assets/screenshots/3_DashboardScreen_With_Appointment.png) | ![Side Drawer](assets/screenshots/4_SideDrawer.png) |
+
+| Appointments | Book Appointment |
+|---|---|
+| ![Appointments](assets/screenshots/5_AppointmentsScreen.png) | ![Book Appointment](assets/screenshots/6_BookAppointmentScreen.png) |
+
+| Patients | Add Patient |
+|---|---|
+| ![Patients](assets/screenshots/7_PatientsScreen.png) | ![Add Patient](assets/screenshots/8_AddPatientScreen.png) |
+
+| Edit Patient | Visits |
+|---|---|
+| ![Edit Patient](assets/screenshots/9_EditPatientScreen.png) | ![Visits](assets/screenshots/10_VisitsScreen.png) |
+
+| Add Visit |
+|---|
+| ![Add Visit](assets/screenshots/11_AddVisitScreen.png) |
+
 ## Getting Started
 
 1. Install Flutter SDK and platform tooling (Android Studio/Xcode).
